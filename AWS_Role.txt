@@ -1,1 +1,0 @@
-arn:aws:iam::508262720963:user/BlackBox
